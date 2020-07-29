@@ -36,6 +36,7 @@
 body {
     background-color: #eaeaea;
     margin: 0;
+    background-image: linear-gradient(to right, #96fbc4 0%, #f9f586 100%);
     color: #34495e;
 }
 
@@ -620,7 +621,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@-webkit-keyframes rainbow {
+/* @-webkit-keyframes rainbow {
 
     0%,
     100% {
@@ -710,7 +711,7 @@ header .go-back i {
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
-}
+} */
 
 .index-card {
     margin-top: -10px;
